@@ -6,7 +6,7 @@
         <h3>{{ post.title }}</h3>
     </div>
     <div>
-        <p>{{ post.content }}</p>
+        <p>{{ post.content|safe }}</p>
     </div>
     <div>
         <img src="{{ post.photo.url }}" alt=""><br>
