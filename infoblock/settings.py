@@ -37,9 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'blockapp.apps.BlockappConfig',
+    'blockapp',
     'ckeditor',
     'ckeditor_uploader',
+    # 'crispy_forms',
 ]
 
 MIDDLEWARE = [
