@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73277cab-c700-40d0-9912-0cc3818951ee" name="Default Changelist" comment="kek">
-      <change afterPath="$PROJECT_DIR$/.idea/g.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blockapp/templates/blockapp/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/blockapp/templates/blockapp/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blockapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blockapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infoblock/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/infoblock/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617884707506</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="регистрация и логин+инфоблок">
+      <created>1618057291460</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618057291460</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fsdfasdfasf" />
     <MESSAGE value="kek" />
-    <option name="LAST_COMMIT_MESSAGE" value="kek" />
+    <MESSAGE value="регистрация и логин+инфоблок" />
+    <option name="LAST_COMMIT_MESSAGE" value="регистрация и логин+инфоблок" />
   </component>
 </project>
